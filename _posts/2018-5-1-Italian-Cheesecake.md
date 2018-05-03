@@ -5,13 +5,13 @@ date:   2018-05-01 13:00:00 +0100
 categories: cakes afternoontea cheese
 ---
 
-*Give a Italian twist to your classic New York Cheesecake with this fast recipe* 
+*Give an Italian twist to your classic New York Cheesecake with this fast recipe* 
 
 ![Simple Italian Cheesecake](https://raw.githubusercontent.com/ecodallaluna/back2bake/master/images/2018/IMG_20180501_1.jpg)
 
-This is a simple cheesecake recipe that uses fresh ricotta cheese and mascarpone cheese in even parts. The result is a fresh and lighter taste compared to the classic American Cheesecake made with processed soft cheese. The original recipe is from my friend [@maddarenna](https://www.instagram.com/maddarenna/), I just added few little alterations to adapt to my taste.
+This is a simple cheesecake recipe that uses ricotta cheese and mascarpone cheese in even parts. The result is a fresh and lighter taste compared to the classic American Cheesecake made with processed soft cheese. The original recipe is from my friend [@maddarenna](https://www.instagram.com/maddarenna/), I just added few little alterations to adapt to my taste.
 
-This recipe can be easily modified to make more sophisticated cakes. Please check the final session of this post for tastier versions. Just be sure to buy in advance the different ingredients and calculate extra time for the making.
+This recipe can be easily modified to make more sophisticated cakes. Please check the final paragraph of this post for tasty versions. Just be sure to collect in advance the different ingredients and calculate extra time for the making.
 
 ### Ingredients
 
@@ -36,20 +36,20 @@ This recipe can be easily modified to make more sophisticated cakes. Please chec
 **Tips:**
 * Caster sugar is refined white cane sugar. It is extremely soluble with a lovely sweet scent. I hardly found it outside UK. Regular granular sugar can be a substitute;
 * whipping cream can be a substitute if double/heavy cream is not available;
-* the seeds of the vanilla pod are always the best ingredient for the aromatization, however vanilla pods are very expensive. Liquid vanilla extract is a cheaper alternative. Avoid vanillin or other artificial chemicals. In case of limited budget is possible to use the zest of an organic lemon instead of vanilla.
+* the seeds of the vanilla pod are always the best ingredient for the aromatization, however vanilla pods are expensive. Liquid vanilla extract is a cheaper alternative. Avoid vanillin or other artificial chemicals. In case of limited budget is possible to use the grated zest of an organic lemon instead of vanilla.
 
 *Special tools:*
 * Electric mixer (or a whip)
-* Round mold 22cm diameter with a opening ring
+* Round mold 22cm diameter with a removable ring
 * Cooling grill
 * Silicone spatula 
 * Rolling pin
 * Baking paper
 
 ### Instructions:
-1. Put the cookies in a big and resilient plastic bag. Close the bag firmly and use the pin roll to crash finely the cookies to fine crumbles
-1. Mix butter with sugar, add cookie crumbles in a small bowl;
-1. Use a spoon to cover the bottom of the mold with a slice of baking paper. Cover the bottom and the side of the mold ring with the cookie crumble mixture. Gently put it in the fridge 
+1. Put the cookies in a big and resilient plastic bag. Close the bag firmly and use the pin roll to crash the cookies to fine crumbles
+1. Mix butter with sugar in a small bowl, add cookie crumbles
+1. Cover the bottom of the mold with a slice of baking paper. Use a spoon to cover the bottom and the side of the mold ring with the cookie crumble mixture. Gently put the mold in the fridge 
 1. Turn on the oven to 150c
 1. Use the electric mixer to mix the other ingredients together in a large bowl. Start by mixing the two type of cheese, once softener add sugar, starch, egg, cream and vanilla. Mix well and wait that one ingredient is well incorporated to the mixture before to add the next one
 1. Take the cake mold from the fridge. The cookie crumble mixture should be well adherent to the internal surface of the cake mold
