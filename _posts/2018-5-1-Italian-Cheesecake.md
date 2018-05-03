@@ -65,41 +65,42 @@ This recipe can be easily modified to make more sophisticated cakes. Please chec
 This recipe is the basic version of the cake, similar to the New York Cheesecake. It is extremely easy to make very delicious cakes with small changes to this recipe!
 
 **Strawberry Cheesecake:**
-Yes, it is the one on the picture! It is needed the following extra ingredients: 
+Yes, it is the one on the picture! They are needed the following extra ingredients: 
 * 250g fresh strawberries
 * 5g agar-agar refined powder or jelly powder for fruit tart
 * 4 tablespoon of granules white sugar
 * 250ml water 
-* plus few extra hours of cooling time
+* few extra hours of cooling time
 
 1. Make a regular New York Cheesecake as described in the previous recipe 
 1. Put the cake to cool down on a grill
-1. Wash the strawberries, remove the leaves and defects on the surface, chop the berries in small 5mm thick cubes
-1. In a pot with a thick bottom mix together sugar and agar-agar powder, add water little by little while mixing very well with a metal spoon
-1. Put the pot on a stove, at minimum heat. Never stop to stir the mixture with a metal spoon. At the first bubbles turn off the stove. The mixture should now be thick and transparent
+1. Wash the strawberries, remove leaves and defects on the surface, chop the berries in small 5mm thick cubes
+1. In a pot with a thick bottom, mix together sugar and agar-agar powder, add water little by little while mixing very well with a metal spoon
+1. Put the pot on a stove, at minimum heat. Never stop to stir the mixture with a metal spoon. At the first bubbles (100c) turn off the stove. The mixture should now be thick and transparent
 1. Add the strawberries and mix well
-1. The cake should be cooled down by now. Pour the jelly mixture on the top of the cake and spread gently on the surface
-1. Wait that the cake is at room temperature
+1. The cake should be cooled down by now. Pour the jelly mixture on the top of the cake and spread gently the strawberries on the surface
+1. Wait that the cake reaches room temperature before to put it into the fridge. Wait at least few hours before to serve
 
  
 **Matcha Cheesecake:**
-Enjoy this Japanese style cheesecake. It is needed the following extra ingredients: 
+Enjoy this Japanese style cheesecake. They are needed the following extra ingredients: 
 * 2-3 teaspoons of matcha (green tea) powder
 
 1. Add matcha when mixing the ingredients for the cheese mixture
 1. *Do not add the vanilla extract*
 
 **Black Forest Cheesecake:**
-This decadent cake will become one of your favourite. It is needed the following extra ingredients: 
-* Substitute the starch with 30g cocoa powder *(Do not add the starch)*
+This decadent cake will become one of your favourite. They are needed the following extra ingredients: 
+* 30g cocoa powder to substitute the starch *(Do not add the starch)*
 * Few handful spoons of candied sour cherries (the best one are [“Amarene Fabbri”](http://www.fabbri1905.com/))
 
 1. Add cocoa powder when mixing the ingredients for the cheese mixture
+1. *Do not add the starch*
 1. After pouring the cheese mixture in the mold, gently put the sour cherries on the surface of the cake. They will sink into the mixture. Try to uniformly distribute the cherries on the whole surface of the cake
 1. You can add more or less cocoa powder to adjust to your taste 
 
 **Goat Cheesecake**
-If you like the strong tastes of goat cheese you should this unique cheesecake. It is needed the following extra ingredients: 
+If you like the strong taste of goat cheese you should try this unique cheesecake. They are needed the following extra ingredients: 
 * Substitute the ricotta cheese with 250g of fresh ricotta cheese made with goat milk
 * Substitute the vanilla with the zest of one organic lemon, grated 
 
