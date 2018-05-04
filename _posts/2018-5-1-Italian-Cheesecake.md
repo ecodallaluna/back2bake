@@ -9,9 +9,9 @@ categories: cakes afternoontea cheese
 
 ![Simple Italian Cheesecake](https://raw.githubusercontent.com/ecodallaluna/back2bake/master/images/2018/IMG_20180501_1.jpg)
 
-This is a simple cheesecake recipe that uses ricotta cheese and mascarpone cheese in even parts. The result is a fresh and lighter taste compared to the classic American Cheesecake made with processed soft cheese. The original recipe is from my friend [@maddarenna](https://www.instagram.com/maddarenna/), I just added few little alterations to adapt to my taste.
+This is a simple cheesecake recipe that uses ricotta cheese and mascarpone cheese in even parts. The result is a fresh and lighter taste compared to the classic American Cheesecake made with processed soft cheese. The original recipe is from my friend [@maddarenna](https://www.instagram.com/maddarenna/), I just added few little alterations to adapt it to my taste.
 
-This recipe can be easily modified to make more sophisticated cakes. Please check the final paragraph of this post for tasty versions. Just be sure to collect in advance the different ingredients and calculate extra time for the making.
+This recipe can be easily modified to make more sophisticated cakes. Please check the final paragraph of this post for tasty alternatives. Just be sure to collect in advance the different ingredients and calculate extra time for the making.
 
 ### Ingredients
 
@@ -21,7 +21,7 @@ This recipe can be easily modified to make more sophisticated cakes. Please chec
 * 2 tablespoons of Muscovado sugar  
 
 **Tips:**
-* Muscovado sugar has a strong molasses taste that fiercely blend with the cheese filling;
+* Muscovado sugar has a strong molasses taste that blend nicely with the cheese filling;
 * Equivalent quantity of honey can be a substitute of the Muscovado sugar if you prefer a less indulgent taste. However, it will be harder to incorporate the honey directly to the crumbled cookies. I suggest to melt the honey with the hot butter before to incorporate the cookies to the mix.
 
 *Cheese filling:*
@@ -36,7 +36,7 @@ This recipe can be easily modified to make more sophisticated cakes. Please chec
 **Tips:**
 * Caster sugar is refined white cane sugar. It is extremely soluble with a lovely sweet scent. I hardly found it outside UK. Regular granular sugar can be a substitute;
 * whipping cream can be a substitute if double/heavy cream is not available;
-* the seeds of the vanilla pod are always the best ingredient for the aromatization, however vanilla pods are expensive. Liquid vanilla extract is a cheaper alternative. Avoid vanillin or other artificial chemicals. In case of limited budget is possible to use the grated zest of an organic lemon instead of vanilla.
+* seeds of vanilla pods are always the best ingredient for the aromatization, however vanilla pods are expensive. Liquid vanilla extract is a cheaper alternative. Avoid vanillin or other artificial chemicals. In case of limited budget is possible to use the grated zest of an organic lemon instead of vanilla.
 
 *Special tools:*
 * Electric mixer (or a whip)
