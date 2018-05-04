@@ -35,8 +35,8 @@ This recipe can be easily modified to make more sophisticated cakes. Please chec
 
 **Tips:**
 * Caster sugar is refined white cane sugar. It is extremely soluble with a lovely sweet scent. I hardly found it outside UK. Regular granular sugar can be a substitute;
-* whipping cream can be a substitute if double/heavy cream is not available;
-* seeds of vanilla pods are always the best ingredient for the aromatization, however vanilla pods are expensive. Liquid vanilla extract is a cheaper alternative. Avoid vanillin or other artificial chemicals. In case of limited budget is possible to use the grated zest of an organic lemon instead of vanilla.
+* Whipping cream can be a substitute if double/heavy cream is not available;
+* Seeds of vanilla pods are always the best ingredient for the aromatization, however vanilla pods are expensive. Liquid vanilla extract is a cheaper alternative. Avoid vanillin or other artificial chemicals. In case of limited budget is possible to use the grated zest of an organic lemon instead of vanilla.
 
 *Special tools:*
 * Electric mixer (or a whip)
